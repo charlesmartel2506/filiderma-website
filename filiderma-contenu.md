@@ -13,7 +13,7 @@ Fiche de référence du contenu du site (`index.html`). À tenir à jour si le t
 
 ## Services (confirmés par Dominique, enregistrement audio du 22 juillet 2026)
 
-1. **Neuromodulateurs** (relaxants musculaires) — détendent les muscles responsables des rides d'expression. Pas de mention de marque (ex. Botox®) sur le site, à la demande de la cliente.
+1. **Neuromodulateurs** (relaxants musculaires) — détendent les muscles responsables des rides d'expression, usage esthétique. Pas de mention de marque (ex. Botox®) sur le site, à la demande de la cliente. Usage thérapeutique (migraines, bruxisme, hyperhidrose) aussi mentionné sur le site depuis la demande du 22 juillet 2026.
 2. **Agents de comblement** (acide hyaluronique) — redonnent du volume, redessinent les lèvres, restaurent les contours du visage.
 3. **Biostimulants** — stimulent la production naturelle de collagène pour une fermeté progressive.
 4. **PRP** (plasma riche en plaquettes) — régénération cutanée à partir du propre sang de la cliente.
@@ -21,9 +21,9 @@ Fiche de référence du contenu du site (`index.html`). À tenir à jour si le t
 
 Tout est orienté vers la **prévention du vieillissement de la peau**.
 
-### Usage thérapeutique des neuromodulateurs (à NE PAS afficher sur le site)
+### Usage thérapeutique des neuromodulateurs
 
-Dominique a précisé que les neuromodulateurs ont aussi un usage thérapeutique (migraines, bruxisme, hyperhidrose), en plus de l'usage esthétique présenté sur le site. **Consigne explicite : ne pas mentionner cet usage thérapeutique sur le site web** — gardé ici comme contexte seulement, au cas où la cliente change d'avis plus tard.
+Dominique a précisé que les neuromodulateurs ont aussi un usage thérapeutique (migraines, bruxisme, hyperhidrose), en plus de l'usage esthétique. D'abord gardé hors du site (demande initiale du 22 juillet 2026), puis ajouté à la carte « Neuromodulateurs » sur demande explicite le même jour.
 
 ### Services complémentaires affichés (À CONFIRMER avec Dominique)
 
