@@ -7,13 +7,13 @@ Fiche de référence du contenu du site (`index.html`). À tenir à jour si le t
 - **Nom de la clinique** : FiliDerma
 - **Praticienne** : Dominique Filion, **infirmière-injectrice**
 - **Ville** : Laval, Québec
-- **Adresse** : à confirmer (affichée sur le site comme « Adresse exacte à venir »)
+- **Adresse** : non affichée sur le site — demande explicite de la cliente, seule la ville (Laval, Québec) est indiquée
 - **Téléphone / prise de rendez-vous** : (514) 212-9791
 - **Fonctionnement** : sur rendez-vous uniquement, aucun accès sans rendez-vous — la cliente appelle et Dominique se rend disponible.
 
 ## Services (confirmés par Dominique, enregistrement audio du 22 juillet 2026)
 
-1. **Neuromodulateurs** (relaxants musculaires, ex. Botox®) — détendent les muscles responsables des rides d'expression.
+1. **Neuromodulateurs** (relaxants musculaires) — détendent les muscles responsables des rides d'expression. Pas de mention de marque (ex. Botox®) sur le site, à la demande de la cliente.
 2. **Agents de comblement** (acide hyaluronique) — redonnent du volume, redessinent les lèvres, restaurent les contours du visage.
 3. **Biostimulants** — stimulent la production naturelle de collagène pour une fermeté progressive.
 
@@ -60,7 +60,6 @@ Site statique autonome (HTML/CSS/JS), sans base de données ni back-end — les 
 
 ## À faire / en attente
 
-- [ ] Adresse exacte de la clinique
 - [ ] Vraie photo de Dominique Filion
 - [ ] Vraies photos avant/après (avec consentement des clientes)
 - [ ] Confirmer la liste des services complémentaires
