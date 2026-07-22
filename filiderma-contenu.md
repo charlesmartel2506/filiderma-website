@@ -16,8 +16,14 @@ Fiche de référence du contenu du site (`index.html`). À tenir à jour si le t
 1. **Neuromodulateurs** (relaxants musculaires) — détendent les muscles responsables des rides d'expression. Pas de mention de marque (ex. Botox®) sur le site, à la demande de la cliente.
 2. **Agents de comblement** (acide hyaluronique) — redonnent du volume, redessinent les lèvres, restaurent les contours du visage.
 3. **Biostimulants** — stimulent la production naturelle de collagène pour une fermeté progressive.
+4. **PRP** (plasma riche en plaquettes) — régénération cutanée à partir du propre sang de la cliente.
+5. **Microneedling** — micro-perforations contrôlées pour stimuler le renouvellement de la peau (texture, cicatrices, éclat).
 
 Tout est orienté vers la **prévention du vieillissement de la peau**.
+
+### Usage thérapeutique des neuromodulateurs (à NE PAS afficher sur le site)
+
+Dominique a précisé que les neuromodulateurs ont aussi un usage thérapeutique (migraines, bruxisme, hyperhidrose), en plus de l'usage esthétique présenté sur le site. **Consigne explicite : ne pas mentionner cet usage thérapeutique sur le site web** — gardé ici comme contexte seulement, au cas où la cliente change d'avis plus tard.
 
 ### Services complémentaires affichés (À CONFIRMER avec Dominique)
 
@@ -26,11 +32,11 @@ Le site affiche aussi une liste générique de soins courants en médico-esthét
 ## Philosophie / positionnement (issu de l'enregistrement audio)
 
 - Le vieillissement se prévient, il ne se subit pas.
-- Certaines clientes commencent une approche **préventive dès la mi-vingtaine**.
-- D'autres souhaitent **corriger un détail précis dès 18 ans** (âge légal minimal).
+- Certaines clientes commencent une approche **préventive dès la vingtaine**.
+- D'autres souhaitent **corriger un détail précis dès la trentaine**.
 - **Âge moyen de la clientèle : la quarantaine.**
 
-Ce positionnement est repris textuellement dans la section « Notre approche » du site (3 cartes : 18 ans / 25 ans / 40 ans).
+Ce positionnement est repris dans la section « Notre approche » du site (3 cartes : 20 ans / 30 ans / 40 ans — chiffres ronds choisis par Dominique, ajustés depuis les valeurs initiales 18/25/40 tirées de l'enregistrement audio).
 
 ## Formation de Dominique Filion
 
